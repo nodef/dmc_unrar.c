@@ -1,0 +1,15 @@
+{
+  "name": "dmc_unrar.c",
+  "version": "1.7.0",
+  "description": "A dependency-free, single-file FLOSS unrar library; Sven Hesse (2017).",
+  "keywords": ["c", "library", "unrar", "rar", "decompression", "extraction"],
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/dmc_unrar.c.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/dmc_unrar.c/issues"
+  },
+  "homepage": "https://github.com/nodef/dmc_unrar.c#readme"
+}
