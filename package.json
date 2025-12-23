@@ -1,6 +1,6 @@
 {
   "name": "dmc_unrar.c",
-  "version": "1.7.0",
+  "version": "1.7.3",
   "description": "A dependency-free, single-file FLOSS unrar library; Sven Hesse (2017).",
   "keywords": [
     "c",
@@ -19,5 +19,9 @@
     "url": "git+https://github.com/nodef/dmc_unrar.c.git"
   },
   "license": "GPL-2.0-or-later",
-  "main": "dmc_unrar.h"
+  "author": "wolfram77@gmail.com",
+  "main": "dmc_unrar.h",
+  "scripts": {
+    "test": "bash build.sh test"
+  }
 }

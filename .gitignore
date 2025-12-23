@@ -1,9 +1,6 @@
-# Library files
-dmc_unrar
-dmc_unrar.h
-
-# Build directory
+# Build artifacts
 .build/
+*.exe
 
 # Logs
 logs
