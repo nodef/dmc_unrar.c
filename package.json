@@ -1,6 +1,6 @@
 {
   "name": "dmc_unrar.c",
-  "version": "1.7.3",
+  "version": "1.7.4",
   "description": "A dependency-free, single-file FLOSS unrar library; Sven Hesse (2017).",
   "keywords": [
     "c",
